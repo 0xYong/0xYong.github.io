@@ -13,3 +13,4 @@ replit.nix
 .claude
 quartz-serve.log
 auto-sync.ps1
+*.bat
