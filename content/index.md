@@ -12,3 +12,4 @@ title: 0xYong
 
 - [[OSCP 사용 도구]]
 - [[SysReptor로 OSCP 리포트 작성하기]]
+- [[OWASP Top 10 for LLM 2025 심화 해설]]
