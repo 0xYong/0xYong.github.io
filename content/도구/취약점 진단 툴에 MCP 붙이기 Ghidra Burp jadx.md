@@ -98,7 +98,7 @@ pip install mcp requests
 
 Burp는 **공식 BApp**으로 MCP 서버를 제공합니다. PortSwigger가 직접 만든 **"MCP Server"** 익스텐션이라 설치가 가장 간단해요.
 
-![Burp BApp Store의 MCP Server 익스텐션](images/burp-mcp.png)
+![Burp BApp Store의 MCP Server 익스텐션](/도구/images/burp-mcp.png)
 
 ### 설치
 

@@ -11,7 +11,7 @@ OSCP는 익스플로잇만 성공한다고 끝이 아닙니다. **정해진 형�
 
 [SysReptor](https://docs.sysreptor.com/)는 펜테스트 리포트 작성에 특화된 오픈소스 플랫폼입니다. **마크다운으로 쓰고 → HTML 디자인으로 → PDF 렌더링**하는 구조라, OffSec이 제공하는 공식 리포트 양식을 그대로 가져와 내용만 채우면 됩니다. 셀프 호스팅으로 직접 구축한 과정과 OSCP 리포트 작성 활용법을 정리합니다.
 
-![SysReptor에서 OffSec 양식으로 렌더링한 OSCP+ Exam Report PDF 표지](images/sysreptor-pdf.png)
+![SysReptor에서 OffSec 양식으로 렌더링한 OSCP+ Exam Report PDF 표지](/OSCP/images/sysreptor-pdf.png)
 
 내용만 채우면 이렇게 OffSec 공식 양식에 맞춘 PDF 표지부터 본문까지 한 번에 떨어집니다. 위 화면이 이 글에서 만들 결과물입니다.
 
@@ -84,7 +84,7 @@ http://127.0.0.1:8000/
 
 로그인하면 이런 프로젝트 목록 화면이 보입니다. 좌측에 Projects · Templates · Designs · Notes, 그리고 Administration(Users · Settings · License)이 정리돼 있습니다.
 
-![SysReptor Community Edition 로그인 후 프로젝트 목록 화면](images/sysreptor-projects.png)
+![SysReptor Community Edition 로그인 후 프로젝트 목록 화면](/OSCP/images/sysreptor-projects.png)
 
 설치 과정에서 초기 관리자 계정을 만들게 됩니다. 추가로 슈퍼유저가 필요하면 언제든 만들 수 있습니다.
 
@@ -117,7 +117,7 @@ curl -s "$url" | docker compose exec --no-TTY app python3 manage.py importdemoda
 3. **스크린샷 첨부** — 드래그&드롭으로 업로드, 본문에 바로 삽입. `proof.txt`·`local.txt` 캡처를 빠뜨리지 않기
 4. **PDF 렌더링** — 버튼 하나로 OffSec 양식에 맞춘 PDF 생성
 
-![OffSec OSCP+ Exam Report 디자인으로 타깃별 침투 과정을 마크다운으로 작성하는 SysReptor 화면](images/sysreptor-editor.png)
+![OffSec OSCP+ Exam Report 디자인으로 타깃별 침투 과정을 마크다운으로 작성하는 SysReptor 화면](/OSCP/images/sysreptor-editor.png)
 
 왼쪽에 OSCP 양식의 섹션(Student, High-Level Summary, Methodologies, Appendix)과 Findings가 그대로 잡혀 있고, 가운데 마크다운 에디터에서 타깃별 포트 스캔·열거·초기 침투를 적어 내려가면 됩니다. Write / Split / Preview 탭으로 작성하면서 결과를 바로 확인할 수 있습니다.
 
