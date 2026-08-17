@@ -1,5 +1,6 @@
 ---
 title: Java Properties 파일 AES 암호화 — ECB 모드의 함정
+draft: true
 tags:
   - AES
   - 암호화
