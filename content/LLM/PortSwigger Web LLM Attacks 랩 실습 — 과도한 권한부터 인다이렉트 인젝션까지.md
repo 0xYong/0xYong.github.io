@@ -19,7 +19,7 @@ tags:
 - **PortSwigger 링크**: [lab-exploiting-llm-apis-with-excessive-agency](https://portswigger.net/web-security/llm-attacks/lab-exploiting-llm-apis-with-excessive-agency)
 - **목표**: LLM을 이용해 사용자 `carlos`를 삭제
 
-챗봇에게 "너 뭐 할 수 있어?"라고 물어봤더니 "SQL도 마음대로 실행할 수 있어요"라고 순순히 답했습니다. 그다음엔 그냥 "carlos 지워줘"라고 부탁만 했는데 진짜로 지워졌어요.
+챗봇에게 어떤 API를 쓸 수 있는지 물었더니 임의 SQL을 실행하는 툴이 있다고 순순히 알려줬고, 그다음엔 그냥 자연어로 계정 삭제를 요청했더니 그대로 실행됐습니다.
 
 ## 애플리케이션 구조
 
