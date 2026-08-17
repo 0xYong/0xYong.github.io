@@ -13,3 +13,8 @@ title: 0xYong
 - [[OSCP 사용 도구]]
 - [[SysReptor로 OSCP 리포트 작성하기]]
 - [[OWASP Top 10 for LLM 2025 심화 해설]]
+- [[LLM 애플리케이션 모의해킹 14개 취약점 진단]]
+- [[PortSwigger Web LLM Attacks 랩 실습 — 과도한 권한부터 인다이렉트 인젝션까지]]
+- [[윈도우 AD 침투 자격증명 피벗 권한상승 3가지 기법]]
+- [[취약점 진단 툴에 MCP 붙이기 Ghidra Burp jadx]]
+- [[Java Properties 파일 AES 암호화 — ECB 모드의 함정]]

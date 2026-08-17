@@ -1,6 +1,5 @@
 ---
 title: SysReptor로 OSCP 리포트 작성하기
-date: 2026-06-27
 tags:
   - OSCP
   - 침투테스트

@@ -1,6 +1,5 @@
 ---
 title: OSCP 추천 도구
-date: 2026-06-25
 tags:
   - OSCP
   - 침투테스트
