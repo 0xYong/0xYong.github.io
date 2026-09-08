@@ -1,5 +1,5 @@
 ---
-title: 픽픽이 안 되는 고객사에서 캡처 프로그램을 만들었다 — Gemini CLI 바이브 코딩 후기
+title: AI한테 윈도우용 프로그램 개발을 통째로 맡겨보았다 — Gemini CLI 바이브 코딩 후기
 tags:
   - 바이브코딩
   - Gemini CLI
